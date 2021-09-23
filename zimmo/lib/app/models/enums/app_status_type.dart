@@ -1,0 +1,1 @@
+enum AppStatusType { Uninitialized, Initialized, Authenticated }
